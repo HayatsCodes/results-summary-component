@@ -521,16 +521,16 @@ video {
   position: relative;
 }
 
-.left-10 {
-  left: 2.5rem;
+.left-16 {
+  left: 4rem;
 }
 
 .left-2 {
   left: 0.5rem;
 }
 
-.left-20 {
-  left: 5rem;
+.left-24 {
+  left: 6rem;
 }
 
 .top-52 {
@@ -539,22 +539,6 @@ video {
 
 .top-56 {
   top: 14rem;
-}
-
-.left-12 {
-  left: 3rem;
-}
-
-.left-16 {
-  left: 4rem;
-}
-
-.left-24 {
-  left: 6rem;
-}
-
-.left-28 {
-  left: 7rem;
 }
 
 .mx-auto {
@@ -596,6 +580,10 @@ video {
 
 .h-screen {
   height: 100vh;
+}
+
+.h-350 {
+  height: 350px;
 }
 
 .w-250 {
