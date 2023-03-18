@@ -19,7 +19,10 @@ module.exports = {
         '300': '300px',
         '350': '350px',
       },
-      
+      spacing: {
+        '20': '20px',
+        // Add your custom left properties here
+      },
       fontSize: {
         '11': '11px',
         '100': '100px',
