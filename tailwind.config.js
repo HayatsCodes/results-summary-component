@@ -3,7 +3,9 @@ module.exports = {
   content: ["*.html"],
   theme: {
     extend: {
-      
+      fontFamily: {
+        custom: ['My Custom Font', 'serif'],
+      },
       width: {
         '210': '210px',
         '420': '420px',
