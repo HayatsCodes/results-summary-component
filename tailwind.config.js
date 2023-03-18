@@ -6,6 +6,9 @@ module.exports = {
       fontFamily: {
         custom: ['HankenGrotesk'],
       },
+      fontWeight: {
+        thin: 100,
+      },
       width: {
         '210': '210px',
         '420': '420px',
