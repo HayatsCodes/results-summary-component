@@ -597,7 +597,7 @@ video {
 }
 
 .to-persian-blue {
-  --tw-gradient-to: (207, 68%, 43%, 1);
+  --tw-gradient-to: hsla(241, 72%, 46%, 1);
 }
 
 .text-center {
