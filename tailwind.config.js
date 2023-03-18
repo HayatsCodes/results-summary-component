@@ -4,9 +4,9 @@ module.exports = {
   theme: {
     extend: {
       width: {
-        '350': '350px',
         '400': '400px',
       },
+      heigh
       fontSize: {
         '11': '11px',
       },
