@@ -545,6 +545,10 @@ video {
   left: 1.5rem;
 }
 
+.top-60 {
+  top: 15rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
