@@ -541,6 +541,10 @@ video {
   top: 15rem;
 }
 
+.top-56 {
+  top: 14rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -604,6 +608,10 @@ video {
 
 .justify-center {
   justify-content: center;
+}
+
+.whitespace-pre-line {
+  white-space: pre-line;
 }
 
 .rounded-full {
