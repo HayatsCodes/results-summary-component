@@ -39,7 +39,8 @@ module.exports = {
         'light-red': 'hsl(0, 100%, 67%)',
         'orangey-yellow': 'hsl(39, 100%, 56%)',
         'green-teal': 'hsl(166, 100%, 37%)',
-        'light-lavender': ''
+        'light-lavender': 'hsl(241, 100%, 89%)',
+        'dark-gray-blue': 'hsl(224, 30%, 27%)',
       },
     },
   },
