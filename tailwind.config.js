@@ -20,7 +20,7 @@ module.exports = {
         '350': '350px',
       },
       spacing: {
-        '20': '20px',
+        '26': '6.5rem',
         // Add your custom left properties here
       },
       fontSize: {
