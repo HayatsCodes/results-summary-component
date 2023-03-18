@@ -18,6 +18,7 @@ module.exports = {
       },
       fontSize: {
         '11': '11px',
+        '8': '8px',
         '5xl': '3rem'
       },
       colors: {
