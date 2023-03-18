@@ -570,6 +570,10 @@ video {
   margin-top: 1.5rem;
 }
 
+.mt-8 {
+  margin-top: 2rem;
+}
+
 .inline-block {
   display: inline-block;
 }
@@ -624,6 +628,10 @@ video {
 
 .w-48 {
   width: 12rem;
+}
+
+.w-40 {
+  width: 10rem;
 }
 
 .flex-col {
