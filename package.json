@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/HayatsCodes/results-summary-component/issues"
   },
-  "homepage": "https://github.com/HayatsCodes/results-summary-component#readme"
+  "homepage": "https://github.com/HayatsCodes/results-summary-component#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
 }
