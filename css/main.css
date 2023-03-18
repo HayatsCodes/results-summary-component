@@ -553,6 +553,10 @@ video {
   left: 15rem;
 }
 
+.left-64 {
+  left: 16rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
