@@ -582,6 +582,10 @@ video {
   justify-content: center;
 }
 
+.break-words {
+  overflow-wrap: break-word;
+}
+
 .rounded-full {
   border-radius: 9999px;
 }
