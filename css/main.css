@@ -525,8 +525,12 @@ video {
   height: 100vh;
 }
 
+.h-96 {
+  height: 24rem;
+}
+
 .w-200 {
-  width: 200px;
+  width: 210px;
 }
 
 .w-400 {
@@ -539,10 +543,6 @@ video {
 
 .justify-center {
   justify-content: center;
-}
-
-.rounded-lg {
-  border-radius: 0.5rem;
 }
 
 .rounded-xl {
