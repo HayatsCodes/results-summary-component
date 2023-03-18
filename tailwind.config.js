@@ -18,7 +18,7 @@ module.exports = {
       },
       fontSize: {
         '11': '11px',
-        '5xl': '  font-size: 3rem'
+        '5xl': '3rem'
       },
       colors: {
         'card-color': 'hsl(228, 45%, 44%)',
