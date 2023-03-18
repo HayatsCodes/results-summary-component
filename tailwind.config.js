@@ -17,6 +17,7 @@ module.exports = {
       },
       height: {
         '300': '300px',
+        '300': '300px',
       },
       fontSize: {
         '11': '11px',
