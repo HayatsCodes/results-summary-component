@@ -558,6 +558,14 @@ video {
   margin-bottom: 0px;
 }
 
+.ml-2 {
+  margin-left: 0.5rem;
+}
+
+.ml-16 {
+  margin-left: 4rem;
+}
+
 .inline-block {
   display: inline-block;
 }
