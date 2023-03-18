@@ -636,6 +636,10 @@ video {
   font-size: 3rem;
 }
 
+.text-11 {
+  font-size: 11px;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -660,4 +664,14 @@ video {
 
 .text-transparent {
   color: transparent;
+}
+
+.text-gray-100 {
+  --tw-text-opacity: 1;
+  color: rgb(243 244 246 / var(--tw-text-opacity));
+}
+
+.text-gray-50 {
+  --tw-text-opacity: 1;
+  color: rgb(249 250 251 / var(--tw-text-opacity));
 }
