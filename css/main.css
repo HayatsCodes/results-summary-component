@@ -525,48 +525,16 @@ video {
   left: 2.5rem;
 }
 
-.top-5 {
-  top: 1.25rem;
-}
-
-.top-4 {
-  top: 1rem;
-}
-
-.top-40 {
-  top: 10rem;
-}
-
-.top-48 {
-  top: 12rem;
-}
-
-.left-12 {
-  left: 3rem;
-}
-
-.left-16 {
-  left: 4rem;
-}
-
-.left-24 {
-  left: 6rem;
+.left-2 {
+  left: 0.5rem;
 }
 
 .left-20 {
   left: 5rem;
 }
 
-.top-56 {
-  top: 14rem;
-}
-
 .top-52 {
   top: 13rem;
-}
-
-.left-2 {
-  left: 0.5rem;
 }
 
 .top-60 {
@@ -578,6 +546,10 @@ video {
   margin-right: auto;
 }
 
+.-mt-3 {
+  margin-top: -0.75rem;
+}
+
 .mt-16 {
   margin-top: 4rem;
 }
@@ -586,40 +558,8 @@ video {
   margin-top: 1rem;
 }
 
-.mt-8 {
-  margin-top: 2rem;
-}
-
-.-mt-4 {
-  margin-top: -1rem;
-}
-
-.-mt-64 {
-  margin-top: -16rem;
-}
-
-.mt-0 {
-  margin-top: 0px;
-}
-
-.mb-0 {
-  margin-bottom: 0px;
-}
-
-.ml-2 {
-  margin-left: 0.5rem;
-}
-
-.ml-16 {
-  margin-left: 4rem;
-}
-
 .mt-6 {
   margin-top: 1.5rem;
-}
-
-.-mt-3 {
-  margin-top: -0.75rem;
 }
 
 .inline-block {
@@ -664,10 +604,6 @@ video {
 
 .justify-center {
   justify-content: center;
-}
-
-.break-words {
-  overflow-wrap: break-word;
 }
 
 .rounded-full {
@@ -720,27 +656,21 @@ video {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-.text-5xl {
-  font-size: 3rem;
+.text-10 {
+  font-size: 10px;
 }
 
 .text-11 {
   font-size: 11px;
 }
 
-.text-sm {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
+.text-5xl {
+  font-size: 3rem;
 }
 
 .text-lg {
   font-size: 1.125rem;
   line-height: 1.75rem;
-}
-
-.text-xs {
-  font-size: 0.75rem;
-  line-height: 1rem;
 }
 
 .font-bold {
@@ -751,36 +681,9 @@ video {
   font-weight: 100;
 }
 
-.font-light {
-  font-weight: 300;
-}
-
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
-.text-gray-200 {
-  --tw-text-opacity: 1;
-  color: rgb(229 231 235 / var(--tw-text-opacity));
-}
-
-.text-transparent {
-  color: transparent;
-}
-
-.text-gray-100 {
-  --tw-text-opacity: 1;
-  color: rgb(243 244 246 / var(--tw-text-opacity));
-}
-
-.text-gray-50 {
-  --tw-text-opacity: 1;
-  color: rgb(249 250 251 / var(--tw-text-opacity));
-}
-
-.opacity-5 {
-  opacity: 0.05;
 }
 
 .opacity-50 {
