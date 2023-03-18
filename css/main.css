@@ -537,10 +537,6 @@ video {
   top: 13rem;
 }
 
-.top-60 {
-  top: 15rem;
-}
-
 .top-56 {
   top: 14rem;
 }
@@ -664,10 +660,6 @@ video {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-.text-10 {
-  font-size: 10px;
-}
-
 .text-11 {
   font-size: 11px;
 }
@@ -687,18 +679,6 @@ video {
 
 .font-thin {
   font-weight: 100;
-}
-
-.tracking-tight {
-  letter-spacing: -0.025em;
-}
-
-.tracking-tighter {
-  letter-spacing: -0.05em;
-}
-
-.tracking-widest {
-  letter-spacing: 0.1em;
 }
 
 .text-white {
