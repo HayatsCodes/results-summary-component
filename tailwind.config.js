@@ -38,7 +38,8 @@ module.exports = {
         'persian-blue': 'hsla(241, 72%, 46%, 1)',
         'light-red': 'hsl(0, 100%, 67%)',
         'orangey-yellow': 'hsl(39, 100%, 56%)',
-        'green-teal': '',
+        'green-teal': 'hsl(166, 100%, 37%)',
+        'light-lavender': ''
       },
     },
   },
