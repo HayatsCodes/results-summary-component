@@ -554,6 +554,10 @@ video {
   margin-top: 0px;
 }
 
+.mb-0 {
+  margin-bottom: 0px;
+}
+
 .inline-block {
   display: inline-block;
 }
