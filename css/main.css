@@ -665,6 +665,10 @@ video {
   --tw-gradient-to: hsla(241, 72%, 46%, 1);
 }
 
+.text-left {
+  text-align: left;
+}
+
 .text-center {
   text-align: center;
 }
