@@ -545,24 +545,19 @@ video {
   border-radius: 0.75rem;
 }
 
+.bg-card-color {
+  --tw-bg-opacity: 1;
+  background-color: hsl(228 45% 44% / var(--tw-bg-opacity));
+}
+
 .bg-gray-100 {
   --tw-bg-opacity: 1;
   background-color: rgb(243 244 246 / var(--tw-bg-opacity));
 }
 
-.bg-purple-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(168 85 247 / var(--tw-bg-opacity));
-}
-
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-
-.bg-card-color {
-  --tw-bg-opacity: 1;
-  background-color: hsl(228 45% 44% / var(--tw-bg-opacity));
 }
 
 .text-center {
@@ -571,6 +566,14 @@ video {
 
 .font-custom {
   font-family: HankenGrotesk;
+}
+
+.font-thin {
+  font-weight: 100;
+}
+
+.font-light {
+  font-weight: 300;
 }
 
 .text-white {
