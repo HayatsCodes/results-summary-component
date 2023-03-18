@@ -22,7 +22,8 @@ module.exports = {
       colors: {
         'card-color': 'hsl(228, 45%, 44%)',
         'card-color-light': 'hsl(210, 41%, 40%)',
-        
+        'light-slate-blue': 'hsl(252, 100%, 67%)',
+        'light-royal-blue': 'hsl(252, 100%, 67%)',
       },
     },
   },

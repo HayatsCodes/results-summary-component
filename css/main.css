@@ -522,52 +522,32 @@ video {
   margin-top: 2.5rem;
 }
 
-.mt-5 {
-  margin-top: 1.25rem;
-}
-
 .flex {
   display: flex;
-}
-
-.h-24 {
-  height: 6rem;
 }
 
 .h-300 {
   height: 300px;
 }
 
-.h-screen {
-  height: 100vh;
-}
-
-.h-full {
-  height: 100%;
-}
-
 .h-32 {
   height: 8rem;
+}
+
+.h-screen {
+  height: 100vh;
 }
 
 .w-210 {
   width: 210px;
 }
 
-.w-24 {
-  width: 6rem;
+.w-32 {
+  width: 8rem;
 }
 
 .w-420 {
   width: 420px;
-}
-
-.w-3 {
-  width: 0.75rem;
-}
-
-.w-32 {
-  width: 8rem;
 }
 
 .items-center {
