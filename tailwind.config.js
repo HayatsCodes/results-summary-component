@@ -3,6 +3,7 @@ module.exports = {
   content: ["*.html"],
   theme: {
     extend: {
+      
       width: {
         '210': '210px',
         '420': '420px',
