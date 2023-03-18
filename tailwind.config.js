@@ -25,6 +25,7 @@ module.exports = {
         'light-slate-blue': 'hsl(252, 100%, 67%)',
         'light-royal-blue': 'hsl(241, 81%, 54%)',
         'violet-blue': 'hsla(256, 72%, 46%, 1)',
+        'persian-blue': '',
       },
     },
   },
