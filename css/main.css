@@ -546,6 +546,10 @@ video {
   height: 100%;
 }
 
+.h-32 {
+  height: 8rem;
+}
+
 .w-210 {
   width: 210px;
 }
@@ -556,6 +560,14 @@ video {
 
 .w-420 {
   width: 420px;
+}
+
+.w-3 {
+  width: 0.75rem;
+}
+
+.w-32 {
+  width: 8rem;
 }
 
 .items-center {
