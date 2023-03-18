@@ -6,7 +6,9 @@ module.exports = {
       width: {
         '400': '400px',
       },
-      heigh
+      height: {
+        '350': '350px',
+      },
       fontSize: {
         '11': '11px',
       },
