@@ -550,6 +550,14 @@ video {
   margin-top: -16rem;
 }
 
+.mt-0 {
+  margin-top: 0px;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
 .flex {
   display: flex;
 }
