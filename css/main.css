@@ -574,16 +574,12 @@ video {
   height: 8rem;
 }
 
-.h-350 {
-  height: 350px;
+.h-330 {
+  height: 330px;
 }
 
 .h-screen {
   height: 100vh;
-}
-
-.h-320 {
-  height: 320px;
 }
 
 .w-250 {
