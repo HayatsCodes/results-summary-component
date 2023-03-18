@@ -517,24 +517,20 @@ video {
   display: flex;
 }
 
-.h-350 {
-  height: 350px;
+.h-300 {
+  height: 300px;
 }
 
 .h-screen {
   height: 100vh;
 }
 
-.h-96 {
-  height: 24rem;
-}
-
-.w-200 {
-  width: 210px;
-}
-
 .w-400 {
   width: 400px;
+}
+
+.w-210 {
+  width: 210px;
 }
 
 .items-center {
