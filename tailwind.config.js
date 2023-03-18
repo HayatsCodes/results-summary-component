@@ -22,6 +22,7 @@ module.exports = {
       },
       spacing: {
         '26': '6.5rem',
+        '68': '17rem',
         // Add your custom left properties here
       },
       fontSize: {
