@@ -706,6 +706,11 @@ video {
   background-color: hsl(39 100% 56% / var(--tw-bg-opacity));
 }
 
+.bg-green-teal {
+  --tw-bg-opacity: 1;
+  background-color: hsl(166 100% 37% / var(--tw-bg-opacity));
+}
+
 .bg-opacity-10 {
   --tw-bg-opacity: 0.1;
 }
@@ -790,6 +795,11 @@ video {
 .text-orangey-yellow {
   --tw-text-opacity: 1;
   color: hsl(39 100% 56% / var(--tw-text-opacity));
+}
+
+.text-green-teal {
+  --tw-text-opacity: 1;
+  color: hsl(166 100% 37% / var(--tw-text-opacity));
 }
 
 .opacity-50 {
