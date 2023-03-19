@@ -589,6 +589,10 @@ video {
   bottom: 1.75rem;
 }
 
+.right-6 {
+  right: 1.5rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -676,6 +680,14 @@ video {
 
 .w-52 {
   width: 13rem;
+}
+
+.w-4 {
+  width: 1rem;
+}
+
+.w-48 {
+  width: 12rem;
 }
 
 .flex-col {
