@@ -618,6 +618,10 @@ video {
   margin-top: 7rem;
 }
 
+.mt-40 {
+  margin-top: 10rem;
+}
+
 .inline-block {
   display: inline-block;
 }
