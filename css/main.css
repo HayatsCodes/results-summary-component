@@ -569,6 +569,18 @@ video {
   bottom: 0px;
 }
 
+.right-8 {
+  right: 2rem;
+}
+
+.bottom-4 {
+  bottom: 1rem;
+}
+
+.right-4 {
+  right: 1rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
