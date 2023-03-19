@@ -537,8 +537,8 @@ video {
   left: 17rem;
 }
 
-.right-0 {
-  right: 0px;
+.right-1 {
+  right: 0.25rem;
 }
 
 .top-0 {
@@ -549,24 +549,20 @@ video {
   top: 0.5rem;
 }
 
-.top-52 {
-  top: 13rem;
-}
-
-.top-56 {
-  top: 14rem;
-}
-
-.right-1 {
-  right: 0.25rem;
+.top-2\.5 {
+  top: 0.625rem;
 }
 
 .top-3 {
   top: 0.75rem;
 }
 
-.top-2\.5 {
-  top: 0.625rem;
+.top-52 {
+  top: 13rem;
+}
+
+.top-56 {
+  top: 14rem;
 }
 
 .mx-auto {
@@ -590,6 +586,10 @@ video {
   margin-top: 4rem;
 }
 
+.mt-28 {
+  margin-top: 7rem;
+}
+
 .mt-3 {
   margin-top: 0.75rem;
 }
@@ -598,28 +598,12 @@ video {
   margin-top: 1rem;
 }
 
-.mt-6 {
-  margin-top: 1.5rem;
-}
-
-.mt-2 {
-  margin-top: 0.5rem;
-}
-
-.mt-24 {
-  margin-top: 6rem;
-}
-
-.mt-32 {
-  margin-top: 8rem;
-}
-
-.mt-28 {
-  margin-top: 7rem;
-}
-
 .mt-40 {
   margin-top: 10rem;
+}
+
+.mt-6 {
+  margin-top: 1.5rem;
 }
 
 .inline-block {
@@ -691,14 +675,14 @@ video {
   background-color: rgb(243 244 246 / var(--tw-bg-opacity));
 }
 
+.bg-green-teal {
+  --tw-bg-opacity: 1;
+  background-color: hsl(166 100% 37% / var(--tw-bg-opacity));
+}
+
 .bg-light-red {
   --tw-bg-opacity: 1;
   background-color: hsl(0 100% 67% / var(--tw-bg-opacity));
-}
-
-.bg-white {
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
 .bg-orangey-yellow {
@@ -706,9 +690,9 @@ video {
   background-color: hsl(39 100% 56% / var(--tw-bg-opacity));
 }
 
-.bg-green-teal {
+.bg-white {
   --tw-bg-opacity: 1;
-  background-color: hsl(166 100% 37% / var(--tw-bg-opacity));
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
 .bg-opacity-10 {
@@ -777,9 +761,9 @@ video {
   letter-spacing: 0.1em;
 }
 
-.text-dark-gray-blue {
+.text-green-teal {
   --tw-text-opacity: 1;
-  color: hsl(224 30% 27% / var(--tw-text-opacity));
+  color: hsl(166 100% 37% / var(--tw-text-opacity));
 }
 
 .text-light-red {
@@ -787,19 +771,14 @@ video {
   color: hsl(0 100% 67% / var(--tw-text-opacity));
 }
 
-.text-white {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
 .text-orangey-yellow {
   --tw-text-opacity: 1;
   color: hsl(39 100% 56% / var(--tw-text-opacity));
 }
 
-.text-green-teal {
+.text-white {
   --tw-text-opacity: 1;
-  color: hsl(166 100% 37% / var(--tw-text-opacity));
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .opacity-50 {
