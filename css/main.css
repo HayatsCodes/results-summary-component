@@ -706,6 +706,11 @@ video {
   width: 12rem;
 }
 
+.scroll-my-0 {
+  scroll-margin-top: 0px;
+  scroll-margin-bottom: 0px;
+}
+
 .flex-col {
   flex-direction: column;
 }
