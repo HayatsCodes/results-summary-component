@@ -723,6 +723,10 @@ video {
   justify-content: center;
 }
 
+.overflow-hidden {
+  overflow: hidden;
+}
+
 .rounded-full {
   border-radius: 9999px;
 }
