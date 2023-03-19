@@ -685,6 +685,11 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-orangey-yellow {
+  --tw-bg-opacity: 1;
+  background-color: hsl(39 100% 56% / var(--tw-bg-opacity));
+}
+
 .bg-opacity-10 {
   --tw-bg-opacity: 0.1;
 }
