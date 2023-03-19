@@ -40,7 +40,7 @@ module.exports = {
         'orangey-yellow': 'hsl(39, 100%, 56%)',
         'green-teal': 'hsl(166, 100%, 37%)',
         'light-lavender': 'hsl(241, 100%, 89%)',
-        'cobalt-blue': 'hsl(224, 30%, 27%)',
+        'cobalt-blue': 'hsl(234, 85%, 45%)',
       },
     },
   },
