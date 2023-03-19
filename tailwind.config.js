@@ -41,7 +41,7 @@ module.exports = {
         'green-teal': 'hsl(166, 100%, 37%)',
         'light-lavender': 'hsl(241, 100%, 89%)',
         'cobalt-blue': 'hsl(234, 85%, 45%)',
-        'dark-gray-blue': '',
+        'dark-gray-blue': 'hsl(224, 30%, 27%)',
       },
     },
   },
